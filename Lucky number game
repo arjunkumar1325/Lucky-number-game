@@ -1,0 +1,6 @@
+number = int(input("Enter a number: "))
+
+if number % 7 == 0:
+    print("🎉 Lucky Number!")
+else:
+    print("Try again 😄")
